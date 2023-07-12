@@ -1,2 +1,2 @@
 # -guide-JS-code
-Руководство по написанию JavaScript-кода 
+A guide to writing JavaScript code
